@@ -23,6 +23,7 @@ Lean FDP has one repository per layer. Older repositories have been folded in; t
 | Website | [LeanFDP.github.io](https://github.com/LeanFDP/LeanFDP.github.io): [fdp.semscape.org](https://fdp.semscape.org/) | Active |
 | Publish an FDP | [fdp-ecosystem-template](https://github.com/LeanFDP/fdp-ecosystem-template): catalogs, website, contributions, FAIR tests | **Canonical** |
 | Index | [fdp-index](https://github.com/LeanFDP/fdp-index): the [FDP Index](https://fdp.semscape.org/fdp-index/), crawled daily; register your FDP there | **Canonical** |
+| Index (hosted service) | [lean-fdp-index](https://github.com/markwilkinson/lean-fdp-index) by Mark Wilkinson, running for ERDERA at [erdera-vp-index.linkeddata.systems](https://erdera-vp-index.linkeddata.systems/): SPARQL, FDP-ping registration | Related, outside this org |
 | Virtual Platform | [staticfdp-vp](https://github.com/LeanFDP/staticfdp-vp): aggregates FDP indexes | Experimental |
 | Publish (2023 original) | [static-fdp](https://github.com/LeanFDP/static-fdp) | ShEx validation moved to the template ([#1](https://github.com/LeanFDP/fdp-ecosystem-template/pull/1)); to be archived |
 | Publish (2026 rewrite) | [staticfdp](https://github.com/LeanFDP/staticfdp) | ORCID form and Codeberg mirror moved to the template ([#2](https://github.com/LeanFDP/fdp-ecosystem-template/pull/2)); to be archived |
